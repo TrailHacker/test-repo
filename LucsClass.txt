@@ -1,0 +1,4 @@
+public class LucsClass 
+{
+  // add methods here
+}
