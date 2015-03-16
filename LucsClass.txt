@@ -1,4 +1,4 @@
 public class LucsClass 
 {
-  // add methods here
+  // add more methods here
 }
